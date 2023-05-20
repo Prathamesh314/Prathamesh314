@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about competitive programming, Pyth
 - 🌟 Competitive Programmer
 - 📚 Constantly learning and exploring new technologies
 
-#### 👀 I’m interested in ...
+#  👀 I'm interested in ...
 ## Interests
 
 - 🏆 Competitive Programming: Solving algorithmic challenges and participating in coding competitions.
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about competitive programming, Pyth
 
 Check out my [LeetCode profile](https://leetcode.com/kurve18p/) to see my solutions to various coding problems. I enjoy tackling algorithmic challenges and honing my problem-solving skills.
 
-- 📫 How to reach me ...
+# 📫 How to reach me ...
 ## Connect with Me
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/prathamesh-kurve-02300a232/) to stay in touch and explore professional opportunities together.
