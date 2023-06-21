@@ -11,11 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there! 👋
 - 👋 Hi, I’m @Prathamesh314
-Welcome to my GitHub profile! I'm passionate about competitive programming, Python development, and backend development. Currently, I'm diving into the world of Spring Boot to enhance my skills further.
-
+Welcome to my GitHub profile! I'm passionate about competitive programming, Python development, and backend development.
 ## About Me
 
-- 💻 Python Developer | Backend Developer
+- 💻 Python Developer | Backend Developer | Springboot | JAVA
 - 🌟 Competitive Programmer
 - 📚 Constantly learning and exploring new technologies
 
