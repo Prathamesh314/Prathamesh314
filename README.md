@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring framework for backend, problem solving skills**
 
-- 💬 Ask me about **Three words :- Persisent, HardWorking, Consistent**
+- 💬 Ask me about **spring,java,python**
 
 - 📫 How to reach me **kurvep79@gmail.com**
 
@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prathamesh kurve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh kurve" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kurvep08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kurvep08" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kurvep18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kurvep18" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kurve18p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kurve18p" height="30" width="40" /></a>
 </p>
