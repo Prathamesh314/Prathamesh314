@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamesh314" alt="prathamesh314" /></a> </p>
 
-- 🌱 I’m currently learning **Spring framework for backend, problem solving skills**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **spring,java,python**
+- 💬 Ask me about **Spring,Springboot,java,python,Competetive Programming**
 
 - 📫 How to reach me **kurvep79@gmail.com**
 
