@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Spring,Springboot,java,python,Competetive Programming**
+- 💬 Ask me about **Spring,Springboot,nextjs,java,python,Competetive Programming**
 
 - 📫 How to reach me **kurvep79@gmail.com**
 
