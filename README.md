@@ -52,19 +52,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/prathamesh314/Your-Best-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh314&repo=Your-Best-Project&theme=radical" />
-  </a>
-  <a href="https://github.com/prathamesh314/Another-Great-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh314&repo=Another-Great-Project&theme=radical" />
-  </a>
-</p>
-
----
-
 ### 🤝 Connect with me
 
 <p align="center">
