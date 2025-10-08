@@ -1,5 +1,5 @@
-<h1 align="center">Hello World! I'm Prathamesh Kurve 👋</h1>
-<h3 align="center">Passionate Python Developer | Backend Specialist | Competitive Coder</h3>
+<h1 align="center">Hello! 👋</h1>
+<h3 align="center">Programmer | Love to build stuff</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prathamesh314&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh314" />
