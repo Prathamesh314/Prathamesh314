@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Prathamesh</h1>
 
 <p align="center">
-  <strong>Programmer | Problem Solver | Builder</strong>
+  <strong>Programmer
 </p>
 
 <p align="center">
