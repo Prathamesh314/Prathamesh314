@@ -12,7 +12,7 @@
 
 ### 📫 Get in Touch
 
-- **Email:** kurvep79@gmail.com
+- **Email:** kurvep18@gmail.com
 - **LinkedIn:** [prathamesh-kurve](https://linkedin.com/in/prathamesh-kurve)
 
 ---
